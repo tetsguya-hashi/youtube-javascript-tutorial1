@@ -1,2 +1,2 @@
-# youtube-javascript-tutorial1
+# youtube-javascript-tutorial-academy
 Created with CodeSandbox
